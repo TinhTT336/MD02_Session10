@@ -1,0 +1,21 @@
+.t-button {
+  height: 36px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 0 16px;
+  min-width: 80px;
+  /* line-height: 36px; */
+  cursor: pointer;
+  background-color: #efefef;
+}
+.t-button:hover {
+  background-color: #868686;
+  color: #fff;
+}
+.t-button-primary {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.t-button-primary:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+  color: #fff;
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "đai lưng",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/belt.webp",
+    "price": 50000,
+    "description": "Đai lưng thời trang cho nam và nữ. Sản phẩm này làm từ chất liệu da tổng hợp cao cấp, chất lượng đảm bảo. Thiết kế đơn giản nhưng vô cùng thời trang, phù hợp cho mọi dịp và trang phục. Dễ dàng điều chỉnh độ rộng để phù hợp với bạn. Đai lưng là một phụ kiện không thể thiếu trong tủ đồ của bạn."
+  },
+  {
+    "product_id": 2,
+    "product_name": "sét đồ đi chơi",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(4).webp",
+    "price": 60000,
+    "description": "Sét đồ đi chơi này bao gồm một áo thun, một quần jean và một đôi giày thể thao. Áo thun được làm từ chất liệu cotton, mềm mại và thoáng mát. Quần jean được làm từ chất liệu denim, vừa vặn và tôn dáng. Đôi giày thể thao được làm từ chất liệu da, đế cao su, mang lại sự thoải mái và êm ái khi di chuyển."
+  },
+  {
+    "product_id": 3,
+    "product_name": "giầy Nike hồng",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/shoes%20(3).webp",
+    "price": 55000,
+    "description": "Giày Nike hồng là một đôi giày thời trang dành cho nữ. Giày được làm từ chất liệu da tổng hợp cao cấp, có màu hồng pastel xinh xắn. Thiết kế đơn giản nhưng tinh tế, phù hợp với nhiều trang phục khác nhau."
+  },
+  {
+    "product_id": 4,
+    "product_name": "giầy Nike ",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(23).webp",
+    "price": 70000,
+    "description": "Giày Nike là một đôi giày thể thao dành cho nam và nữ. Giày được làm từ chất liệu da tổng hợp cao cấp, có màu đen cá tính. Thiết kế hiện đại, năng động, phù hợp với nhiều hoạt động thể thao khác nhau."
+  },
+  {
+    "product_id": 5,
+    "product_name": "quần jeans",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(17).webp",
+    "price": 80000,
+    "description": "Quần jeans là một item thời trang không thể thiếu trong tủ đồ của bất kỳ ai. Quần jeans trong danh sách này được làm từ chất liệu denim cao cấp, vừa vặn và tôn dáng. Màu xanh jeans cổ điển, dễ phối với nhiều trang phục khác nhau."
+  },
+  {
+    "product_id": 6,
+    "product_name": "mũ da",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(30).webp",
+    "price": 100000,
+    "description": "Mũ da là một phụ kiện thời trang không thể thiếu cho cả nam và nữ. Mũ được làm từ chất liệu da cao cấp, có màu đen sang trọng. Thiết kế đơn giản nhưng tinh tế, phù hợp với nhiều trang phục khác nhau."
+  }
+]

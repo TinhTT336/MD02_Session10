@@ -1,0 +1,33 @@
+.t-button {
+  height: 36px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 0 16px;
+  min-width: 80px;
+  /* line-height: 36px; */
+  cursor: pointer;
+  background-color: #efefef;
+}
+
+.t-button-primary {
+  background-color: rgba(12, 5, 93, 0.5);
+}
+.t-button-primary:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+  color: #fff;
+}
+.t-button-primary:focus {
+  background-color: rgba(0, 0, 0, 0.9);
+  color: #fff;
+}
+.t-button-danger {
+  background-color: #ff4d4f !important;
+}
+.t-button-danger:hover {
+  background-color: #f5292c !important;
+  color: #fff;
+}
+.t-button-danger:focus {
+  background-color: #ef0d11 !important;
+  color: #fff;
+}

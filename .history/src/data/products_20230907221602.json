@@ -1,0 +1,38 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "đai lưng",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/belt.webp",
+    "price": 50000
+  },
+  {
+    "product_id": 2,
+    "product_name": "sét đồ đi chơi",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(4).webp",
+    "price": 60000
+  },
+  {
+    "product_id": 3,
+    "product_name": "giầy Nike hồng",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/shoes%20(3).webp",
+    "price": 55000
+  },
+  {
+    "product_id": 4,
+    "product_name": "giầy Nike ",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(23).webp",
+    "price": 70000
+  },
+  {
+    "product_id": 5,
+    "product_name": "quần jeans",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(17).webp",
+    "price": 80000
+  },
+  {
+    "product_id": 6,
+    "product_name": "mũ da",
+    "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(30).webp",
+    "price": 100000
+  }
+]

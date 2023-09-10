@@ -1,0 +1,12 @@
+.form-container {
+  border: 1px solid #dadada;
+  padding: 20px;
+  width: 400px;
+  height: 500px;
+  border-radius: 6px;
+}
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 8px;
+}

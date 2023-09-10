@@ -1,0 +1,18 @@
+.sidebar-admin {
+  width: 200px;
+  min-height: 100vh;
+  overflow: hidden;
+  background-color: #2e2d2d !important;
+  color: #fff !important;
+  margin-top: 20px;
+}
+/* .active {
+  color: #fff !important;
+} */
+.router-item {
+  /* padding: 10px; */
+  color: #afafaf;
+}
+.router-title {
+  padding: 10px;
+}
